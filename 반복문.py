@@ -74,7 +74,3 @@ while (True):
     print(eaho)
     eaho=input()
 '''
-
-
-
-
